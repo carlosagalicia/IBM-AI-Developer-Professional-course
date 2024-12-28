@@ -132,3 +132,10 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
   - Consistent error response format
   - HTTP status code usage
   - Global error handler implementation
+
+### 15. Flask Practical Applications
+- **Server-Client Communication:**
+  - Understanding how Flask and JavaScript collaborate for web application functionality.
+  - Handling both server-side and client-side operations for mathematical problem-solving.
+- **Integration of Frontend and Backend:**
+  - Bridging the gap between static HTML/JavaScript and dynamic Python code.
