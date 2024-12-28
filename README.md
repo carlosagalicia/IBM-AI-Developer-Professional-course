@@ -66,3 +66,27 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
   - Making API calls
   - Handling API responses
   - Processing and analyzing API data
+
+### 8. HTTP Protocol utilization
+- **Client-Server Communication:**
+  - Understanding how browsers send HTTP requests to servers
+  - Learning how servers respond with desired resources
+  - Grasping the basic flow of web communication
+- **URL Structure:**
+  - Breaking down URLs into scheme, base URL, and route
+  - Understanding the difference between URLs and URIs
+  - Learning about endpoints in web services
+
+### 9. HTTP Methods and Status Codes
+- **Request Methods:**
+  - Deep dive into GET and POST methods
+  - Understanding different HTTP methods and their purposes
+  - Learning when to use each request type
+- **Status Codes:**
+  - Understanding response status codes (200, 404, etc.)
+  - Learning the different status code classes
+  - Interpreting server responses through status codes
+- **File Operations:**
+  - Downloading files through HTTP requests
+  - Saving response content to files
+  - Working with binary content like images
