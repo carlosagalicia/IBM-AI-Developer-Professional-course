@@ -90,3 +90,17 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
   - Downloading files through HTTP requests
   - Saving response content to files
   - Working with binary content like images
+ 
+### 10. Mathematical Applications
+- **Scientific Computing:**
+  - Working with mathematical constants
+  - Trigonometric functions
+  - Creating evenly spaced sequences
+  - Plotting mathematical functions
+
+### 11. Matplotlib ractical Skills
+- **Visualization:**
+  - Basic plotting with matplotlib
+  - Vector visualization
+  - Creating linear sequences for plotting
+  - Working with mathematical plots
