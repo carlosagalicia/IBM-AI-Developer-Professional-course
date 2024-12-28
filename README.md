@@ -1,5 +1,6 @@
 # IBM-AI-Developer-Professional-course
-This repository contains relevant labs made by Skills Network in the IBM AI Developer Professional course 
+This repository contains the labs and projects completed as part of the IBM AI Developer Professional course. The course covers a variety of topics, including web scraping, REST API development, data analysis, and machine learning, providing hands-on experience with key tools and technologies in AI development.
+
 ## Key Learning Areas
 ### 1. BeautifulSoup Fundamentals
 - **Library Basics:**
@@ -143,3 +144,17 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
 ### 16. Python module creation and testing
 - **Writing and structuring Python modules**
 - **Implementing unit tests with unittest module**
+
+### 17. Flask Web Framework for CRUD Operations
+- **Flask Setup:**
+  - Creating a Flask application instance.
+  - Configuring routes and handling different HTTP methods (GET, POST).
+  - Using render_template to render HTML templates and redirect for page redirection.
+- **CRUD Operations:**
+  - Implementing Create, Read, Update, and Delete operations in Flask.
+  - Using form handling in HTML to capture user inputs and perform actions like creating, updating, and deleting records.
+  - Implementing a simple in-memory database (using lists) for record management.
+  - Handling URL parameters for dynamic content (e.g., updating or deleting a specific record by ID).
+- **Template Rendering:**
+  - Creating dynamic HTML pages (like create.html, read.html, update.html) to handle user interactions and display data.
+  - Using Flask’s templating engine (Jinja) to pass data from the server to the front end.
