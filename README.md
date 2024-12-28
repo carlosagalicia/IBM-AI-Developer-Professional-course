@@ -104,3 +104,31 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
   - Vector visualization
   - Creating linear sequences for plotting
   - Working with mathematical plots
+
+### 12. RESTful API Development with Flask
+- **Basic Flask Setup:**
+  - Creating a Flask application instance
+  - Implementing route handlers with decorators
+  - Handling different HTTP methods (GET, POST, DELETE)
+- **Request Handling:**
+  - Processing query parameters using request.args
+  - Handling URL parameters with route variables
+  - JSON request body parsing with request.get_json()
+  - UUID parameter handling with uuid converter
+
+### 13. External API Integration
+- **HTTP Client Usage:**
+  - Making external API calls using the requests library
+  - Handling different response status codes
+  - URL encoding with urllib.parse.quote
+ 
+### 14. API Design Patterns
+- **Route Structure:**
+  - Resource-based routing
+  - Query parameter usage
+  - URL parameter handling
+  - HTTP method selection for different operations
+- **Error Handling:**
+  - Consistent error response format
+  - HTTP status code usage
+  - Global error handler implementation
