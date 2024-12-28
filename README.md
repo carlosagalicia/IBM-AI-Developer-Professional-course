@@ -139,3 +139,7 @@ This repository contains relevant labs made by Skills Network in the IBM AI Deve
   - Handling both server-side and client-side operations for mathematical problem-solving.
 - **Integration of Frontend and Backend:**
   - Bridging the gap between static HTML/JavaScript and dynamic Python code.
+
+### 16. Python module creation and testing
+- **Writing and structuring Python modules**
+- **Implementing unit tests with unittest module**
