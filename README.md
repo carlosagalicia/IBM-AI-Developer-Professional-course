@@ -191,8 +191,27 @@ This repository contains the labs and projects completed as part of the IBM AI D
 - Created web interface that allows users to upload audio files
 
 ### 24. IBM Watsonx LLM Integration
+- **Speech-to-Text:**
+  - Integrating IBM Watson’s Speech-to-Text API to transcribe spoken language into text.
+  - Handling various language inputs and ensuring accurate transcription.
+- **Text-to-Speech:**
+  - Using IBM Watson’s Text-to-Speech API to convert generated text responses into audible speech.
+  - Fine-tuning voice settings (pitch, speed, and tone) for a natural-sounding assistant.
 - Setting up IBM Watsonx credentials and parameters for text generation
 - Integrating Langchain with Watsonx for dynamic prompt processing
 - Using LLMChain to connect the model with specific prompt templates
 
+### 25. OpenAI API Integration
+- **API Setup:**
+  - Registering and configuring OpenAI API keys for integration with the voice assistant.
+  - Implementing the OpenAI API to process natural language input and generate responses.
+- **Natural Language Processing (NLP):**
+  - Using GPT-3 or GPT-4 for processing complex user queries and generating human-like responses.
+  - Configuring conversation contexts and handling multi-turn dialogues with OpenAI models.
 
+### 26. Voice Command Recognition
+- **Voice Command Handling:**
+  - Implementing voice command recognition to trigger specific actions or queries.
+  - Recognizing user intent and mapping it to the appropriate response or action (e.g., providing information, setting reminders, etc.).
+- **Continuous Listening:**
+  - Implementing a continuous listening mode for hands-free operation, where the assistant is always ready to process new commands.
