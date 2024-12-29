@@ -255,3 +255,13 @@ This repository contains the labs and projects completed as part of the IBM AI D
   - Recognizing different types of user queries
   - Generating coherent, contextually appropriate responses
   - Handling various question formats, from simple facts to complex discussions
+
+### 31. Deep Learning for Image Captioning
+- **Model Usage:**
+  - Loading the BLIP model (`blip-image-captioning-base`) and processor.
+  - Understanding the input requirements and output format of BLIP.
+- **Caption Generation:**
+  - Preprocessing images to create input tensors.
+  - Generating captions using the BLIP model and decoding them into human-readable text.
+- **Optimizing Output:**
+  - Setting parameters like `max_new_tokens` for controlling the length of generated captions.
