@@ -158,3 +158,9 @@ This repository contains the labs and projects completed as part of the IBM AI D
 - **Template Rendering:**
   - Creating dynamic HTML pages (like create.html, read.html, update.html) to handle user interactions and display data.
   - Using Flask’s templating engine (Jinja) to pass data from the server to the front end.
+
+### 18. Audio to Text Transcription using Whisper
+- **Whisper Model Integration:**
+  - Using the whisper library to load and interact with pre-trained models for automatic speech recognition (ASR).
+  - Loading the "base" Whisper model and using it for transcribing audio files to text.
+  - Handling various audio formats and performing transcription on audio files.
