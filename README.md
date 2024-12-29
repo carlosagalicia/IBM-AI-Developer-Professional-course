@@ -215,3 +215,43 @@ This repository contains the labs and projects completed as part of the IBM AI D
   - Recognizing user intent and mapping it to the appropriate response or action (e.g., providing information, setting reminders, etc.).
 - **Continuous Listening:**
   - Implementing a continuous listening mode for hands-free operation, where the assistant is always ready to process new commands.
+
+### 27. Resume Polishing with AI
+- **Core Functionality:**
+  - Using IBM Watson's LLAMA-2 model to generate polished resume content
+  - Understanding the role of NLP in enhancing resume clarity and relevance
+  - Integrating user input (resume content, job title, etc.) for customized recommendations
+- **User Input Customization:**
+  - Collecting user specifications for polishing instructions
+  - Adapting responses based on specific roles or job descriptions
+  - Generating content that aligns with the targeted job position
+
+### 28. Cover Letter Generation
+- **Text Generation Process:**
+  - Utilizing LLAMA-2 to generate a personalized cover letter
+  - Customizing the cover letter with job-specific information (company name, job description, etc.)
+  - Ensuring the cover letter reflects the user’s qualifications as outlined in their resume
+- **Content Personalization:**
+  - Tailoring cover letters to match the language and tone of the job description
+  - Incorporating resume content without adding irrelevant details
+  - Adjusting the writing style for a professional tone
+
+### 29. Career Advice Generation
+- **AI-Driven Career Insights:**
+  - Leveraging LLAMA-2 to offer personalized career advice
+  - Analyzing job descriptions and resumes to suggest improvements
+  - Generating actionable tips to enhance resumes and match job requirements
+- **Improvement Suggestions:**
+  - Identifying key skills to highlight in resumes
+  - Providing suggestions for resume formatting and content
+  - Focusing on areas for improvement based on job descriptions
+  
+### 30. General Chatbot Functionality
+- **General AI Conversations:**
+  - Using LLAMA-2 for generating responses to various user queries
+  - Understanding the versatility of LLAMA-2 in a conversational AI context
+  - Engaging with users through text-based interaction for a wide range of topics
+- **Natural Language Understanding:**
+  - Recognizing different types of user queries
+  - Generating coherent, contextually appropriate responses
+  - Handling various question formats, from simple facts to complex discussions
