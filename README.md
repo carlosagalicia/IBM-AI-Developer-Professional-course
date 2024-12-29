@@ -180,3 +180,19 @@ This repository contains the labs and projects completed as part of the IBM AI D
 ### 21. Docker for Containerization
 - **Dockerizing the Application:**
   - Used Docker to containerize the application, making it easier to deploy in any environment without worrying about dependency issues.
+
+### 22. Speech-to-Text with Transformers
+- Loading and using pre-trained models from Hugging Face
+- Batch processing for speech-to-text conversion
+- Handling audio input and output
+
+### 23. Gradio for Interactive UIs
+- Created user interfaces for speech-to-text applications
+- Created web interface that allows users to upload audio files
+
+### 24. IBM Watsonx LLM Integration
+- Setting up IBM Watsonx credentials and parameters for text generation
+- Integrating Langchain with Watsonx for dynamic prompt processing
+- Using LLMChain to connect the model with specific prompt templates
+
+
