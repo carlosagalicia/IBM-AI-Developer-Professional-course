@@ -164,3 +164,19 @@ This repository contains the labs and projects completed as part of the IBM AI D
   - Using the whisper library to load and interact with pre-trained models for automatic speech recognition (ASR).
   - Loading the "base" Whisper model and using it for transcribing audio files to text.
   - Handling various audio formats and performing transcription on audio files.
+
+### 19. Machine Learning Integration
+- **Watsonx API:**
+  - Integrated IBM Watsonx for processing natural language tasks using a pre-trained model. Configured authentication with API keys and project IDs from IBM Cloud.
+- **HuggingFace Embeddings:**
+  - Used HuggingFace models (like sentence-transformers/all-MiniLM-L6-v2) for converting text data into embeddings to enable better semantic understanding and response generation.
+ 
+### 20. Document Processing
+- **File Upload:**
+  - Enabled users to upload PDF documents, which are then processed for analysis and interaction.
+- **Document Analysis:**
+  - Extracted text from PDFs and enabled querying based on the document content.
+ 
+### 21. Docker for Containerization
+- **Dockerizing the Application:**
+  - Used Docker to containerize the application, making it easier to deploy in any environment without worrying about dependency issues.
