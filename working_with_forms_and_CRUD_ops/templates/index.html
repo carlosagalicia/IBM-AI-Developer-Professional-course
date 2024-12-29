@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="./static/mywebscript.js"></script>
+    <style>
+        .center-heading {
+            text-align: center;
+        }
+    </style>
+
+</head>
+<body>
+    <form method="POST" action="/login">
+        <input type="text" name="username">
+        <input type="password" name="password">
+        <input type="submit" value="Submit">
+    </form>
+
+    <form method="POST" action="data">
+        <input type="submit" value="Submit">
+    </form>
+
+    <a href="/data">Fetch Data</a>
+</body>
+</html>
